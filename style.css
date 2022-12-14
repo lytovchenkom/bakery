@@ -46,7 +46,7 @@ body{
 
 /* SECTION 1 */
 .content{
-    max-width: 1620px;
+    max-width: 1440px;
     
 }
 
@@ -59,7 +59,7 @@ body{
 .background{
     position: relative;
 height: 100%;
-width: 1620px;
+width: 1440px;
 background-image: url('./img/bg.jpg');
 
 }
